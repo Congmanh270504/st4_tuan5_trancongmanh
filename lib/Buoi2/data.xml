@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hoaDon>
+  <khachHangCaNhan>
+    <maKhachHang>KH5678</maKhachHang>
+    <tenKhachHang>Tran Thi B</tenKhachHang>
+    <soLuong>5</soLuong>
+    <giaBan>30000</giaBan>
+    <khoangCach>15</khoangCach>
+  </khachHangCaNhan>
+  <daiLyC1>
+    <maKhachHang>KH9101</maKhachHang>
+    <tenKhachHang>Le Van C</tenKhachHang>
+    <soLuong>20</soLuong>
+    <giaBan>40000</giaBan>
+    <tgHopTac>2020-01-01</tgHopTac>
+  </daiLyC1>
+  <congTy>
+    <maKhachHang>KH1121</maKhachHang>
+    <tenKhachHang>Cong Ty XYZ</tenKhachHang>
+    <soLuong>100</soLuong>
+    <giaBan>20000</giaBan>
+    <soLuongNV>500</soLuongNV>
+  </congTy>
+</hoaDon>
