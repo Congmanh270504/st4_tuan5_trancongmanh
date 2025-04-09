@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
+  audioplayers: ^5.2.1
   xml: ^5.3.1
   intl: ^0.18.0
   sqflite: ^2.0.0
@@ -18,6 +19,9 @@ dependencies:
   provider: ^6.0.5
   sqflite_common_ffi: any
   sqflite_common_ffi_web: any
+  image_picker: ^0.8.7+4
+  permission_handler: ^11.2.0
+  video_player: ^2.5.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -28,3 +32,4 @@ flutter:
 
   assets:
     - assets/images/
+    - assets/audios/

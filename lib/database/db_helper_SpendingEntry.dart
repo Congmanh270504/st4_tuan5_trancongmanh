@@ -26,7 +26,7 @@ class DatabaseHelperSpendingEntry {
       onCreate: (db, version) async {
         await db.execute('''
 CREATE TABLE SpendingEntry(
-id INTEGER PRIMARY KEY AUTOINCREMENT, 
+  id INTEGER PRIMARY KEY AUTOINCREMENT, 
   content TEXT NOT NULL, 
   amount REAL NOT NULL, 
   notes TEXT, 
